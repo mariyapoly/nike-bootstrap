@@ -133,3 +133,37 @@ header {
 .formal-shoes {
     padding-bottom: 130px;
 }
+/* --------- 
+    feature-area css
+--------- */
+.feature-area {
+    padding-bottom: 100px;
+}
+.feature-img {
+    width: 20%;
+}
+.feature-img img {
+    width: 78px;
+}
+.feature-item {
+    padding: 20px 27px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+.feature-text {
+    padding-left: 35px;
+    width: 80%;
+}
+.feature-text h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+    margin-bottom: 14px;
+}
+/* --------- 
+    footer css
+--------- */
+footer {
+    padding-bottom: 50px;
+}
